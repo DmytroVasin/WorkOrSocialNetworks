@@ -49,4 +49,5 @@ authDomain: "AUTH-DOMAIN" - without '.firebaseapp.com'
 
 ## License
 
+
 MIT. See `LICENSE` included in this repo.
